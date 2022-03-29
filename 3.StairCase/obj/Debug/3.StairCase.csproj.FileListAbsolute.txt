@@ -1,0 +1,7 @@
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\obj\Debug\3.StairCase.csproj.AssemblyReference.cache
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\obj\Debug\3.StairCase.csproj.CoreCompileInputs.cache
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\bin\Debug\3.StairCase.exe.config
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\bin\Debug\3.StairCase.exe
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\bin\Debug\3.StairCase.pdb
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\obj\Debug\3.StairCase.exe
+C:\Users\Longbig\source\repos\3.StairCase\3.StairCase\obj\Debug\3.StairCase.pdb
